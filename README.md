@@ -1,5 +1,4 @@
 # AI-Learning-Buddy-KL-Vyshnavi
-# AI Learning Buddy – KL Vyshnavi
 
 ## 📖 Overview
 
